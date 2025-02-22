@@ -1,3 +1,6 @@
 ギット学習
 
 基本的なWFの作成
+
+.git add
+.git commit
